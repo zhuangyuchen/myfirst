@@ -5,7 +5,7 @@
 	<script type="drag.js"></script>
 </head>
 <style>
-	#div1{width:100px;height:100px;background:red;}
+	#div1{}
 </style>
 <body>
 <div id="div1"></div>
